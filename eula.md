@@ -1,7 +1,7 @@
 # End User License Agreement (EULA)
 
 **Effective Date:** July 20, 2025  
-**App Name:** Balance GPT  
+**App Name:** Spective  
 **Company:** Resolve TOK Inc.
 
 ---
