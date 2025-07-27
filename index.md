@@ -1,4 +1,4 @@
-# Privacy Policy for BalanceGPT
+# Privacy Policy for Spective
 
 Last updated: February 2025
 
