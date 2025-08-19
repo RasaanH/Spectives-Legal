@@ -1,12 +1,12 @@
 # End User License Agreement (EULA)
 
 **Effective Date:** July 20, 2025  
-**App Name:** Spective  
+**App Name:** Spectives  
 **Company:** Resolve TOK Inc.
 
 ---
 
-This End User License Agreement ("Agreement") is a legal agreement between you and Resolve TOK Inc. regarding your use of the Spective mobile application ("App").
+This End User License Agreement ("Agreement") is a legal agreement between you and Resolve TOK Inc. regarding your use of the Spectives mobile application ("App").
 
 By downloading, installing, or using the App, you agree to be bound by the terms of this Agreement. If you do not agree, do not use the App.
 
