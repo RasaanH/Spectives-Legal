@@ -1,4 +1,4 @@
-# Privacy Policy for Spective
+# Privacy Policy for Spectives
 
 Last updated: February 2025
 
